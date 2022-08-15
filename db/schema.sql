@@ -1,3 +1,5 @@
-DROP DATABASE IF EXISTS newsfeed_db;
+DROP DATABASE IF EXISTS pothole;
 
-CREATE DATABASE newsfeed_db;
+CREATE DATABASE pothole;
+
+USE pothole;
