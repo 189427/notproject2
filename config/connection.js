@@ -2,7 +2,7 @@ const Sequelize = require("sequelize");
 
 require("dotenv").config();
 
-const sequelize = new Sequelize("newsfeed_db", "root", "Sonor915$", {
+const sequelize = new Sequelize("newsfeed_db", "root", "GroundHog510!!", {
   host: "localhost",
   dialect: "mysql",
   port: 3306,
