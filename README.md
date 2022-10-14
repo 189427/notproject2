@@ -1,6 +1,6 @@
 # Project Description
 
-In 2nd group project, our team (Bandwith of Brothers) set out to create a web app designed to have users add complaints about pot holes.
+Potholr.com is a web app that allows users to locate and report on potholes in their community, as well as for municipalities to identify potholes / road issues that need to be fixed.
 
 # Installation
 
@@ -18,6 +18,10 @@ AS A driver
 I WANT to see where potholes are in the city
 SO THAT I can plan my driving accordingly and avoid potholes
 
+# Deployment
+
+[potholr.com](https://potholespotholes.herokuapp.com/)
+
 # Changelog
 
 ## v1.0.0
@@ -31,6 +35,12 @@ SO THAT I can plan my driving accordingly and avoid potholes
 - created a repo on github
 - fixed image pathing
 - updated bugs
+
+# Contributing
+
+Please contact us for more information:
+
+Github Repo: https://github.com/189427/notproject2
 
 # License
 
