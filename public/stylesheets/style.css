@@ -8,6 +8,7 @@
   box-sizing: border-box;
   background-color: var(--secondary-color);
   color: black;
+  
 }
 body, html {
   height: 100%;
